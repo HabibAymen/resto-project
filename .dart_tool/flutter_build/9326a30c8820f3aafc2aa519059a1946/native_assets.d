@@ -1,0 +1,1 @@
+ C:\\Users\\DELL\\StudioProjects\\\ caisse_restaurant\\.dart_tool\\flutter_build\\9326a30c8820f3aafc2aa519059a1946\\native_assets.yaml: 

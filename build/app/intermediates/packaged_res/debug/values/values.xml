@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">853875284264</string>
+    <string name="google_api_key" translatable="false">AIzaSyBCOW8mtMjRoQf0veMZlYU4nZtIZ38Batg</string>
+    <string name="google_app_id" translatable="false">1:853875284264:android:093663083f5b2b765d581d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBCOW8mtMjRoQf0veMZlYU4nZtIZ38Batg</string>
+    <string name="google_storage_bucket" translatable="false">resto-project-aymen.firebasestorage.app</string>
+    <string name="project_id" translatable="false">resto-project-aymen</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
